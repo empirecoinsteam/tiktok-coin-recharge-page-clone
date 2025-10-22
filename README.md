@@ -15,3 +15,4 @@ From the moment you buy the files you get :
 🟢 After-sales services
 ✅ i'll be happy to help at any time.
 ✅ possibility of remote install.
+join discord to buy your own page  https://discord.gg/wqHHqGMr7x
