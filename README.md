@@ -8,7 +8,7 @@ I built a TikTok-style Coin Recharge Simulator — a local demo that mimics the 
 • Stores recent transactions locally in your browser (localStorage).
 • Fully PWA-installable — add to Home Screen and run like an app.
 • No network calls, no real payments — everything is local.
-
+it work as an app for phone and pc 
 ⚠️ Disclaimer: UI demo only. It does not connect to TikTok or process real payments.
 
 join discord to buy your own page  https://discord.gg/wqHHqGMr7x
